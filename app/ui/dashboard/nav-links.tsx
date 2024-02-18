@@ -47,4 +47,3 @@ export default function NavLinks() {
     </>
   );
 }
-GITHUB_Thurkun8*
